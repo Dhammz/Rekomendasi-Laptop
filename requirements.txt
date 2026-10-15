@@ -1,0 +1,3 @@
+streamlit>=1.28.0
+pyswip==0.2.10
+pandas>=2.0.0

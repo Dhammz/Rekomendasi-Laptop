@@ -1,0 +1,28 @@
+# Kredensial (JANGAN pernah di-commit)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+venv/
+env/
+.env/
+.venv/
+
+# Streamlit
+.streamlit/
+!.streamlit/config.toml
+!.streamlit/secrets.toml.example
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
